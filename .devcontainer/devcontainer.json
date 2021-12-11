@@ -28,6 +28,7 @@
 	"extensions": [
 		"bmewburn.vscode-intelephense-client",
 		"calebporzio.better-phpunit",
+		"bmewburn.vscode-intelephense-client"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
